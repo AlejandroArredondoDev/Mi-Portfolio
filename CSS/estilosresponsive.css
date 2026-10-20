@@ -68,7 +68,7 @@ section {
 }
 
 .Inicio__background{
-    background-image: url(/Imagenes/Fondo\ Inicio.jpg);
+    background-image: url(../Imagenes/Fondo\ Inicio.jpg);
     background-size: cover;
     background-position: center;
     color: oklch(0.872 0.007 219.6);
@@ -550,7 +550,7 @@ section {
 /* SECCIÓN CONTACTO */
 
 .Contacto__background{
-    background-image: url(/Imagenes/Fondo\ Outro.jpg);
+    background-image: url(../Imagenes/Fondo\ Outro.jpg);
     background-size: cover;
     background-position: center;
     width: 100vw;
