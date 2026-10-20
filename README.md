@@ -6,8 +6,10 @@ Sitio web personal desarrollado desde cero para presentar mi perfil técnico, pr
 
 ---
 
-<img width="1514" height="690" alt="Readme1" src="https://github.com/user-attachments/assets/a8c6a6f5-e868-4361-ab9a-a524180f9eba" />
+<img width="1516" height="690" alt="Readme1" src="https://github.com/user-attachments/assets/39c8bb09-d857-46c9-9ac8-ffdd06ee56db" />
+
 <img width="1517" height="686" alt="Readme2" src="https://github.com/user-attachments/assets/d88b5fa8-bb08-415a-92c2-a5ad079e565f" />
+
 <img width="1518" height="690" alt="Readme3" src="https://github.com/user-attachments/assets/b2d60aa0-17df-4335-96a5-e98458ff8661" />
 
 ---
